@@ -3,6 +3,7 @@
 ### Live Demo
 To see the app in action, go to https://boiling-caverns-53688.herokuapp.com/
 
+![alt text](LandingPage.png) 
 
 ### Features
 ```
